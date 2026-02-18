@@ -36,7 +36,7 @@ data = [
 		"filepath":"assets/data/Investigation(2).pdf"
 	},
 	{
-		"name":"Gopher",
+		"name":"Gopher image",
 		"description":"An image of a gopher that is being threatedned by extinction.",
 		"thumbnail":"gopher",
 		"filepath":"assets/data/Gidder.jpg"
