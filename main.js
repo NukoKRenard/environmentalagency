@@ -6,12 +6,6 @@ data = [
 		"filepath":"assets/data/Recordings.zip"
 	},
 	{
-		"name":"Gopher data.",
-		"description":"A brief description of the endangered gopher.",
-		"thumbnail":"gopher",
-		"filepath":"assets/data/Gopher Description.pdf"
-	},
-	{
 		"name":"A Statement Condemming a Mining Company for Killing Gophers..",
 		"description":"The Environmental Protection Agency condemms the company and explains its failings.",
 		"thumbnail":"gopher",
@@ -22,18 +16,6 @@ data = [
 		"description":"An investigation into the destruction of natural habitats.",
 		"thumbnail":"investigation",
 		"filepath":"assets/data/Investigation.pdf"
-	},
-	{
-		"name":"An investigation",
-		"description":"An investigation into the destruction of natural habitats.",
-		"thumbnail":"investigation",
-		"filepath":"assets/data/Investigation(1).pdf"
-	},
-	{
-		"name":"An investigation",
-		"description":"An investigation into the destruction of natural habitats.",
-		"thumbnail":"investigation",
-		"filepath":"assets/data/Investigation(2).pdf"
 	},
 	{
 		"name":"Gopher image",
